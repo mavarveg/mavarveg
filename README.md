@@ -2,8 +2,17 @@
 
 <--Profile https://mavarveg.github.io/react-app
 
-- 🔭 I’m currently working on Promerica Financial Corporation TI
-- ⚡ Systems Engineer with 9+ years of experience in software development with high levels of productivity, scalability, and maintainability. Good skills in agile practices, learning new technologies, proactive, fast learning, and a team player.
+- 🔭 I’m currently working on HatchWork Enterprise
+- ⚡ I’m a computer science engineer, with over 9 years of professional experience, and
+passionate about creating awesome software products, and productive tools with a
+strong focus on performance and scalability.
+I’ve worked for different companies and industries as a back-end and/or front-end
+developer on multiple projects, focused on JavaScript Stack and/or Microsoft stack,
+and cloud services like AWS and Azure.
+I have good knowledge and experience of the Software Development Life Cycle,
+Scrum, TDD, and design patterns, with a strong track record of quickly adapting to
+new projects and teams, eager to learn and make an impact on the people, project,
+and my company.
 
 -->
 
