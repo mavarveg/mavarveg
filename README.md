@@ -3,7 +3,7 @@
 <--Profile https://mavarveg.github.io/react-app
 
 - 🔭 I’m currently working on HatchWork Enterprise
-- ⚡ I’m a computer science engineer, with over 9 years of professional experience, and
+- ⚡ I’m a computer science engineer, with over 10 years of professional experience, and
 passionate about creating awesome software products, and productive tools with a
 strong focus on performance and scalability.
 I’ve worked for different companies and industries as a back-end and/or front-end
